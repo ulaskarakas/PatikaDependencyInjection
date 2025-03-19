@@ -39,14 +39,14 @@ Follow these steps to run the application:
 
 1. **Clone the project:**
    ```bash
-   git clone https://github.com/ulaskarakas/PatikaWeekTwoApp.git
+   git clone https://github.com/ulaskarakas/PatikaDependencyInjection.git
    ```
 2. **Install .NET SDK:**
    - If not already installed, download the appropriate version from the [.NET SDK](https://dotnet.microsoft.com/download) page.
 
 3. **Navigate to the project directory and run the application:**
    ```bash
-   cd PatikaWeekTwoApp
+   cd PatikaDependencyInjection
    dotnet run
    ```
 
